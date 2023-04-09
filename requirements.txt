@@ -1,0 +1,10 @@
+Flask
+flask-security-too
+Flask_Bootstrap
+Flask_SQLAlchemy
+SQLAlchemy
+WTForms
+itsdangerous
+pymysql
+cryptography
+Flask_Migrate
